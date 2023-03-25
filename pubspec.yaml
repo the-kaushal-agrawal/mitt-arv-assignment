@@ -1,0 +1,11 @@
+name: Assignment for Software Engineering Internship.
+description: Flutter Project.
+version: 1.0.0+1
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.8
+  flutter_form_builder: ^6.0.0
+  flutter_quill: ^2.0.0
+
+
